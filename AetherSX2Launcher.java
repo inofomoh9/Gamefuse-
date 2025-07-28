@@ -1,0 +1,1 @@
+// Native module to launch AetherSX2 with PS2 game file path
